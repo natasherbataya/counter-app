@@ -1,0 +1,41 @@
+body {
+  font-family: "Manrope";
+  font-weight: 700;
+}
+
+button {
+  display: block;
+  padding: 0;
+  cursor: pointer;
+  font-family: inherit;
+  border: none;
+}
+
+.counter {
+  text-align: center;
+  font-size: 32px;
+  line-height: 44px;
+  color: #000000;
+}
+
+.btn-add {
+  margin: 0 auto 36px;
+  padding: 0 164px;
+  line-height: 100px;
+  text-align: center;
+  background: #4191ff;
+  border-radius: 20px;
+  font-size: 32px;
+  color: #ffffff;
+}
+
+.btn-reset {
+  margin: 0 auto;
+  padding: 0 172px;
+  line-height: 100px;
+  text-align: center;
+  background: #d45366;
+  border-radius: 20px;
+  font-size: 32px;
+  color: #ffffff;
+}
